@@ -1,4 +1,4 @@
-# excercise 4
+# exercise 4
 
 def factorial num
   fact = 1

@@ -1,4 +1,4 @@
-# excercise 2
+# exercise 2
 
 num = 1234
 

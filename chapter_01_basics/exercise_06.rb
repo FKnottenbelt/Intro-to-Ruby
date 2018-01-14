@@ -1,4 +1,4 @@
-# excercise 6
+# exercise 6
 
 puts 2.5 ** 2
 puts 134.6 ** 2
