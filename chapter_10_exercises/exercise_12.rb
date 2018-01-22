@@ -6,7 +6,7 @@ contact_data = [["joe@email.com", "123 Main st.", "555-123-4567"],
 contacts = {"Joe Smith" => {}, "Sally Johnson" => {}}
 
 contacts.each do |name,v|
- p first_name = name.split(" ")[0].downcase
+  first_name = name.split(" ")[0].downcase
    contact_data.each do |a|
 
      if /#{first_name}/.match(a[0])
